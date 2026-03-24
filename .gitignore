@@ -1,0 +1,11 @@
+.env
+agents-env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.log
+debug_env.py
+test_api_real.py
+verify_bug.py
+verify_fix.py
